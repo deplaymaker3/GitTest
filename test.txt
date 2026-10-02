@@ -1,1 +1,3 @@
 Hello, How are you?
+adding a second line for my exercise progress. git diff
+adding a second line for my exercise progress.
